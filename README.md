@@ -8,8 +8,7 @@ Practicar análisis de datos y visualización en Power BI, aplicando filtros, se
 
 **Contenido del repositorio:**  
 - `data/` : Dataset en formato CSV/Excel.  
-- `pbix/` : Archivo de Power BI (.pbix).  
-- `images/` : Capturas de visualizaciones del dashboard.  
+- `pbix/` : Archivo de Power BI (.pbix).    
 - `README.md` : Este archivo.  
 - `LICENSE` : Licencia del proyecto.  
 
